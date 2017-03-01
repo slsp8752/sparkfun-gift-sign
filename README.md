@@ -19,4 +19,4 @@ The Thing sends a GET request containing the Photon's unique id and the account'
 
 The GET request in "button.ino" here is generalized, as to not give out the id and access token. Make sure you replace the appropriate sections of the url before making your own sign!
 
-The Paticle code is based on the simple "Control LEDS over the 'net" example[here](https://docs.particle.io/guide/getting-started/examples/core/).
+The Paticle code is based on the simple "Control LEDS over the 'net" example [here](https://docs.particle.io/guide/getting-started/examples/core/).
