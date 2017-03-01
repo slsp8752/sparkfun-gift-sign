@@ -11,8 +11,8 @@ You can check out a video of the button on BTU's blog [here](http://btulab.com.s
 The button uses Sparkfun's breakout of the esp8266 [(The Thing)](https://www.sparkfun.com/products/13231), while the sign uses the [Particle Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit).
 
 ###Wiring Diagrams
-[The wiring diagram for the sign](images/photon.png)
-[The wiring diagram for the button](images/thing.png) 
+![The wiring diagram for the sign](images/photon.png)
+![The wiring diagram for the button](images/thing.png) 
 
 ##How it works
 The Thing sends a GET request containing the Photon's unique id and the account's access token, which passes a payload onto the Photon, and runs a function to blink the lights.
