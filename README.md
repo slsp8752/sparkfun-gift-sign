@@ -12,6 +12,7 @@ The button uses Sparkfun's breakout of the esp8266 [(The Thing)](https://www.spa
 
 ###Wiring Diagrams
 ![The wiring diagram for the sign](images/photon.png)
+Note: The red LED here is representative of an LED strip in the actual sign. The LED strip has built in resistors. Make sure you add a resistor between your voltage source and your LED if you aren't using strips that have them baked in!
 ![The wiring diagram for the button](images/thing.png) 
 
 ##How it works
