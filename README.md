@@ -5,7 +5,7 @@
 
 This sign was created as a gift from the BTU Lab to Sparkfun Electronics for sponsoring the lab. The button resides in the BTU Lab, while the sign is hung up at Sparkfun. When you press the button, the heart on the sign blinks a few times in quick succession.
 
-You can check out a video of the button on BTU's blog [here](http://btulab.com.s200635.gridserver.com/btu)
+You can check out a video of the button [here](https://www.youtube.com/watch?v=_E-BaDbq4Dw)
 
 ## Parts Used
 The button uses Sparkfun's breakout of the esp8266 [(The Thing)](https://www.sparkfun.com/products/13231), while the sign uses the [Particle Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit).
